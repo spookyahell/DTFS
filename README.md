@@ -15,7 +15,7 @@ DTFS works like this:
 <br />DTFS funktioniert so:
 <br />Sie können ein einziges Element pro Zeile öffnen und auch wieder schließen,
 <br />es gibt vorerst keine Unterstützung für Dateien, bei denen pro Zeile Mehr als ein Element geöffnet oder geschlossen wird.
-<br />Das Format wurde aus Spaß an der Freude entwickelt was nicht bedeuten muss, dass jemand dafür keine echte Verwendung haben kann
+<br />Das Format wurde aus Spaß an der Freude entwickelt was nicht bedeuten *muss* dass jemand dafür keine echte Verwendung haben kann
 <br />(mit anderen Worten: Jemand sollte durchaus auch die sinvolle Verwendung genießen)
 <br />Sollten die Ergebniss Ihnen gefallen und Sie wollen es zeigen, aktivieren Sie bitte die automatisierte Kommentar-Funktion,
 <br />es erscheint dann auf der Ausgabeseite ein dezenter Hinweis.
