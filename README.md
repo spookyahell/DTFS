@@ -20,5 +20,5 @@ Das Format wurde aus Spaß an der Freude entwickelt was nicht bedeuten muss, das
 Sollten die Ergebniss Ihnen gefallen und Sie wollen es zeigen, aktivieren Sie bitte die automatisierte Kommentar-Funktion,
 es erscheint dann auf der Ausgabeseite ein dezenter Hinweis.
 
-##Coming soon:
-Intial commit
+## Coming soon:
+- Intial commit
