@@ -21,4 +21,4 @@ Sollten die Ergebniss Ihnen gefallen und Sie wollen es zeigen, aktivieren Sie bi
 es erscheint dann auf der Ausgabeseite ein dezenter Hinweis.
 
 ## Coming soon:
-- Intial commit
+- Intial codebase
