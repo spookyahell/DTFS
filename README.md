@@ -19,6 +19,7 @@ DTFS works like this:
 <br />(mit anderen Worten: Jemand sollte durchaus auch die sinvolle Verwendung genießen)
 <br />Sollten die Ergebniss Ihnen gefallen und Sie wollen es zeigen, aktivieren Sie bitte die automatisierte Kommentar-Funktion,
 <br />es erscheint dann auf der Ausgabeseite ein dezenter Hinweis.
+<br />Da das Format bzw. der Umwandler noch in den Kinderschuhen steckt ist hiermit erstmal <br />eine sehr eingeschränkte Version angeboten, <br />d.h. es kann nur von einer Datei eingelesen werden (`example.dtfs`) und es kann genauso auch noch nichts gespeichert werden. Der HTML Text wird in die Konsole ausgegeben.
 
-## Coming soon:
-- Large improvements
+## Ankündigungen:
+- Viele Verbesserungen
