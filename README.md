@@ -21,4 +21,4 @@ DTFS works like this:
 <br />es erscheint dann auf der Ausgabeseite ein dezenter Hinweis.
 
 ## Coming soon:
-- Intial codebase
+- Large improvements
